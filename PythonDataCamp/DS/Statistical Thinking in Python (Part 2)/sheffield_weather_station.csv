@@ -1,11 +1,3 @@
-# Cleaned up from http://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/sheffielddata.txt
-# More info: https://data.gov.uk/dataset/historic-monthly-meteorological-station-data
-# Sheffield
-# Location 433900E 387200N, Lat 53.381 Lon -1.490, 131 metres amsl
-# Missing data (more than 2 days missing in month) is marked by  ---.
-# (af is air frost)
-#    yyyy  mm   tmax    tmin      af    rain     sun
-#               degC    degC    days      mm   hours
    yyyy  mm   tmax    tmin      af    rain     sun
    1883   1    6.3     1.7       6   122.1     ---
    1883   2    8.0     2.8       2    69.8     ---
